@@ -7,7 +7,7 @@ import numbers
 import random
 import numpy as np
 import PIL
-import np.pad as pad
+import numpy.pad as pad
 
 from skimage.transform import resize, rotate
 import torchvision
